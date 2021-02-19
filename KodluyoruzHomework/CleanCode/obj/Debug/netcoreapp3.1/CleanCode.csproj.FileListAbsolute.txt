@@ -1,0 +1,13 @@
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.csprojAssemblyReference.cache
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.AssemblyInfoInputs.cache
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.AssemblyInfo.cs
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.exe
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.deps.json
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.runtimeconfig.json
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.runtimeconfig.dev.json
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.dll
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\bin\Debug\netcoreapp3.1\CleanCode.pdb
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.dll
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.pdb
+C:\Users\ozgur\source\repos\KodluyoruzHomework\CleanCode\obj\Debug\netcoreapp3.1\CleanCode.genruntimeconfig.cache

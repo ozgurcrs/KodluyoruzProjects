@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "krVmSDmX4hEWJ5b9Wko2YU4kB9tePvjlPU5klONVxgWFHb4GCcR+qB3HQI/GaxW3gY2Hj7U0yLQ4/3x9sH/7tA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozgur\\source\\repos\\KodluyoruzHomework\\ApiVersionController\\ApiVersionController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozgur\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\4.1.1\\microsoft.aspnetcore.mvc.versioning.4.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

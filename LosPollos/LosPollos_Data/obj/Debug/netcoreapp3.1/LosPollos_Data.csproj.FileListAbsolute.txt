@@ -1,0 +1,12 @@
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\bin\Debug\netcoreapp3.1\LosPollos_Data.deps.json
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\bin\Debug\netcoreapp3.1\LosPollos_Data.dll
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\bin\Debug\netcoreapp3.1\LosPollos_Data.pdb
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\bin\Debug\netcoreapp3.1\LosPollos_Service.dll
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\bin\Debug\netcoreapp3.1\LosPollos_Service.pdb
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\obj\Debug\netcoreapp3.1\LosPollos_Data.csprojAssemblyReference.cache
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\obj\Debug\netcoreapp3.1\LosPollos_Data.AssemblyInfoInputs.cache
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\obj\Debug\netcoreapp3.1\LosPollos_Data.AssemblyInfo.cs
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\obj\Debug\netcoreapp3.1\LosPollos_Data.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\obj\Debug\netcoreapp3.1\LosPollos_Data.csproj.CopyComplete
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\obj\Debug\netcoreapp3.1\LosPollos_Data.dll
+C:\Users\ozgur\source\repos\LosPollos\LosPollos_Data\obj\Debug\netcoreapp3.1\LosPollos_Data.pdb

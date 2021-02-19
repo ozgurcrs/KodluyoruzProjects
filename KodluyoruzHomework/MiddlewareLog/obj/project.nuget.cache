@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dK7VPiaTsLzt+9mU1YwSiVkyTDB/KZOTxmZeyAtoFHHar1zZ8rL696GHfRtCY/sd2FnAyqlhgm76ItM3VJdYFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ozgur\\source\\repos\\KodluyoruzHomework\\MiddlewareLog\\MiddlewareLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozgur\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

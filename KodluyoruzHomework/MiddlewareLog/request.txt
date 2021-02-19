@@ -1,0 +1,3 @@
+Date Time:2/16/2021 6:00:38 PM ID:ca945121-abcc-4b6c-ac11-96e2c5fa812c Content Type:application/json Host:localhost:44326 Path:/ Protocol:HTTP/1.1
+Date Time:2/16/2021 6:01:08 PM ID:ca945121-abcc-4b6c-ac11-96e2c5fa812c Content Type:application/json Host:localhost:44326 Path:/ Protocol:HTTP/1.1
+Date Time:2/16/2021 6:01:15 PM ID:ca945121-abcc-4b6c-ac11-96e2c5fa812c Content Type: Host:localhost:44326 Path:/response Protocol:HTTP/1.1

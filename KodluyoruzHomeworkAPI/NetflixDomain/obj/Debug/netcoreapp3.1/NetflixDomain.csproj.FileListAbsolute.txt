@@ -1,0 +1,8 @@
+C:\Users\ozgur\source\repos\KodluyoruzHomeworkAPI\NetflixDomain\bin\Debug\netcoreapp3.1\NetflixDomain.deps.json
+C:\Users\ozgur\source\repos\KodluyoruzHomeworkAPI\NetflixDomain\bin\Debug\netcoreapp3.1\NetflixDomain.dll
+C:\Users\ozgur\source\repos\KodluyoruzHomeworkAPI\NetflixDomain\bin\Debug\netcoreapp3.1\NetflixDomain.pdb
+C:\Users\ozgur\source\repos\KodluyoruzHomeworkAPI\NetflixDomain\obj\Debug\netcoreapp3.1\NetflixDomain.AssemblyInfoInputs.cache
+C:\Users\ozgur\source\repos\KodluyoruzHomeworkAPI\NetflixDomain\obj\Debug\netcoreapp3.1\NetflixDomain.AssemblyInfo.cs
+C:\Users\ozgur\source\repos\KodluyoruzHomeworkAPI\NetflixDomain\obj\Debug\netcoreapp3.1\NetflixDomain.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\source\repos\KodluyoruzHomeworkAPI\NetflixDomain\obj\Debug\netcoreapp3.1\NetflixDomain.dll
+C:\Users\ozgur\source\repos\KodluyoruzHomeworkAPI\NetflixDomain\obj\Debug\netcoreapp3.1\NetflixDomain.pdb

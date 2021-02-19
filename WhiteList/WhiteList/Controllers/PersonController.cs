@@ -1,0 +1,24 @@
+﻿using Microsoft.AspNetCore.Mvc;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace WhiteList.Controllers
+{
+    [ApiController]
+    [Route("api/[controller]")]
+    public class PersonController : ControllerBase
+    {
+        [HttpGet(Name = nameof(getPerson))]
+        public IActionResult getPerson()
+        {
+            var response = new
+            {
+                href = Url.Link(nameof(getPerson), null)
+            };
+
+            return Ok(response);
+        }
+    }
+}
